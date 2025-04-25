@@ -85,7 +85,7 @@ Nombre: Juan Pablo Fernández
 
 Correo: juanpablofernandez132@gmail.com
 
-LinkedIn: linkedin.com/in/jnpafernandez
+LinkedIn: linkedin.com/in/juan-pablo-fernández-608a95217/
 
 Informe elaborado con datos abiertos de ENACOM (https://www.enacom.gob.ar).
 
