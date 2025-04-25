@@ -58,7 +58,17 @@ Aplicar cambios y refrescar el modelo.
 - Explorar el informe 
 
 Navegar entre las cuatro pestañas: Presentación, Accesos por Tecnología, Accesos por cada 100 Hogares y Banda Ancha – Dial Up.
-  
+
+* 📊 Descripción de Páginas
+
+- Presentación: Portada con logo Claro y botones de navegación.
+
+- Accesos por Tecnología: Línea de tiempo de ADSL, Cablemodem y Fibra Óptica; participation por provincia.
+
+- Accesos por cada 100 Hogares: Evolución comparada con el objetivo de 2% de crecimiento.
+
+- Banda Ancha – Dial Up: Mapa coroplético y diagrama de árbol mostrando distribución total de accesos del último trimestre.
+
 **`EDA:`**
 Importe las librerías Pandas, Matplotlib y Seaborn. Del Excel importé las hojas elegidas, use la función .head() para verificar que todo ande bien, y la función .info() para traer información general. Revisé valores Nulos y los encontré en la tabla de Dial Up en la columna homónima, sin embargo no fue necesario tratarlos ya que eran datos que no iban a complicar el análisis ni el dashboard. En Accesos por Tecnología se marcaban como nulos unos valores que correspoden a una nota dejada en el Excel la cuál no tiene valor por lo cuál eliminé esas últimas dos filas. Use la función .describe() para obtener más información de las tablas. Usé un Boxplot para verificar si hay outliers en la tabla de Totales Accesos por Tecnología. Para las demás tablas, los datos traídos del AMBA resaltaban demasiado, por lo cuál decidi no buscar outliers ahí ya que la disparidad entre el Capital y Provinica de Buenos Aires, y las demás provincias es demasiada. Lo que sí, revise que porcentaje del total de Accesos de Banda Ancha y Dial Up provenían del AMBA, donde pudimos ver que la mitad se concentran en esta zona. Luego, verifique la distribución del uso de las diferentes tecnologías analizando la tabla "Totales Accesos por Tecnología" con la información del último trimestre. Luego, hicimos un gráfico de lineas que nos permitia ver la evolución del uso de las diferentes tecnologías a traves del tiempo. Y por último otro gráfico de lineas que nos permitio ver la evolución de la penetración cada 100 hogares por Provincia a traves del tiempo. Y la conclusión.
 
