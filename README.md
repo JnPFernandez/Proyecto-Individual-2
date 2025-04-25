@@ -37,7 +37,7 @@ Proyecto-Individual-2/
 - **DAX** (medidas calculadas para KPIs)
 
 - **Jupyter Notebook** (para el análisis exploratorio)
-- 
+  
 - **Python 3.19** (librerías: Pandas, Matplotlib y Seaborn)
 
 **`EDA:`**
