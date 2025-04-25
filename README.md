@@ -84,6 +84,11 @@ Navegar entre las cuatro pestañas: Presentación, Accesos por Tecnología, Acce
 
 - Cuota de mercado de Fibra óptica por provincia
 
+# ℹ️ Fuentes:
+
+https://www.enacom.gob.ar
+https://www.redusers.com/noticias/que-operador-de-telefonia-celular-tiene-mejor-cobertura-en-cada-provincia/#:~:text=Utilizando%20estos%20datos%2C%20fuimos%20a,75%20por%20ciento%20en%20promedio
+
 # 📬 Contacto
 
 Nombre: Juan Pablo Fernández
@@ -91,5 +96,3 @@ Nombre: Juan Pablo Fernández
 Correo: juanpablofernandez132@gmail.com
 
 LinkedIn: linkedin.com/in/juan-pablo-fernández-608a95217/
-
-Informe elaborado con datos abiertos de ENACOM (https://www.enacom.gob.ar).
