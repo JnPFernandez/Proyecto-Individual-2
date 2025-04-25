@@ -82,7 +82,9 @@ Navegar entre las cuatro pestañas: Presentación, Accesos por Tecnología, Acce
 # 📬 Contacto
 
 Nombre: Juan Pablo Fernández
+
 Correo: juanpablofernandez132@gmail.com
+
 LinkedIn: linkedin.com/in/jnpafernandez
 
 Informe elaborado con datos abiertos de ENACOM (https://www.enacom.gob.ar).
