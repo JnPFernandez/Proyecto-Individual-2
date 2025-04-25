@@ -19,9 +19,13 @@ Este repositorio contiene el Dashboard desarrollado en Power BI Desktop para el 
 # 🗂️ Estructura del repositorio
 
 Proyecto-Individual-2/
+
 ├── Internet.xlsx         # Archivo de datos original con varias hojas
+
 ├── Proyecto Integrador 2.pbix   # Archivo de Power BI (modelo + visualizaciones)
+
 ├── EDA.ipynb                  # Archivo de Jupiter Notebook que contiene el Analisis Exploratorio de los datos
+
 └── README.md                 # Documentación (este archivo)
 
 **`EDA:`**
