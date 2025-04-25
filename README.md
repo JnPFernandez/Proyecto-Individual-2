@@ -59,7 +59,7 @@ Aplicar cambios y refrescar el modelo.
 
 Navegar entre las cuatro pestañas: Presentación, Accesos por Tecnología, Accesos por cada 100 Hogares y Banda Ancha – Dial Up.
 
-* 📊 Descripción de Páginas
+# 📊 Descripción de Páginas
 
 - Presentación: Portada con logo Claro y botones de navegación.
 
