@@ -1,6 +1,4 @@
 # <h1 align="center">**`Informe sobre el Comportamiento de las Telecomunicaciones a Nivel Nacional`**</h1>
-<p align='center'>
-<img src ="https://logowik.com/content/uploads/images/792_claro.jpg">
 
   Análisis Estratégico Claro
 
