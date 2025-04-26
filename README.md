@@ -1,6 +1,9 @@
 # Proyecto-Individual-2
 
 # <h1 align="center">**`Informe sobre el Comportamiento de las Telecomunicaciones a Nivel Nacional`**</h1>
+<p align='center'>
+<img src ="https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png">
+<p>
 Análisis Estratégico Claro
 
 # ✏️ Descripción del proyecto
