@@ -2,7 +2,7 @@
 
 # <h1 align="center">**`Informe sobre el Comportamiento de las Telecomunicaciones a Nivel Nacional`**</h1>
 <p align='center'>
-<img src ="https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png">
+<img src ="[https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png](https://www.google.com/search?sca_esv=021a7e8001b564d8&rlz=1C1SQJL_enAR956AR958&sxsrf=AHTn8zpZxPZB-xrHu7-CsFS2jwabCMHgAQ:1745626260736&q=claro+logo&udm=2&fbs=ABzOT_BnMAgCWdhr5zilP5f1cnRvK9uZj3HA_MTJAA6lXR8yQIHhBi298nC38CQZOY2HEJZWYtA6yNEwnaeJRiu97MFPJ6sFeKfWm6aaMfl5UXLfnG4be8xyRJTyESyj7xqg0F3SAFUAO9WX8pf8EMLMwFs4PBarpmv_fPDT2s1U9tyUPAjqa0gvjWFSgF_uPrLeqz7UfQMeenlGrOd_IXw1Zfs-lTd81A&sa=X&ved=2ahUKEwj9-bnJtPSMAxXFqpUCHS31EM0QtKgLegQIExAB&biw=1517&bih=712&dpr=0.9#vhid=kPutyzB--_b3uM&vssid=mosaic)">
 <p>
 Análisis Estratégico Claro
 
