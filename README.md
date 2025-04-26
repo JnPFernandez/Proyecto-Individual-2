@@ -73,6 +73,8 @@ Navegar entre las cuatro pestañas: Presentación, Accesos por Tecnología, Acce
 
 - Banda Ancha – Dial Up: Mapa coroplético sobre el crecimiento en los accesos en cada provincia y diagrama de árbol mostrando distribución total de accesos del último trimestre.
 
+- Conclusión: Una breve conclusión sobre lo visto en la presentación para dejar claro lo encontrado gracias a esta información y dando una perspectiva sobre donde deberían ir dirigidos los actuales y futuros esfuerzos de nuestra compañía.
+
 # 🎯 KPIs Clave
 
 - Crecimiento de accesos por 100 hogares del %2 para el próximo trimestre
