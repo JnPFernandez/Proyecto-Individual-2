@@ -3,7 +3,8 @@
 # <h1 align="center">**`Informe sobre el Comportamiento de las Telecomunicaciones a Nivel Nacional`**</h1>
 <p align='center'>
 <img src ="https://logowik.com/content/uploads/images/792_claro.jpg">
-Análisis Estratégico Claro
+
+  Análisis Estratégico Claro
 
 # ✏️ Descripción del proyecto
 Este repositorio contiene el Dashboard desarrollado en Power BI Desktop para el análisis estratégico de las telecomunicaciones en Argentina, con foco en los accesos a internet. El informe visualiza tendencias históricas, participación por tecnologías, objetivos de crecimiento y cobertura geográfica, usando los últimos datos abiertos de ENACOM del 2do trimestre de 2024.
