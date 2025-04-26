@@ -3,7 +3,7 @@
 # <h1 align="center">**`Informe sobre el Comportamiento de las Telecomunicaciones a Nivel Nacional`**</h1>
 
 <p align='center'>
-<img src ="[(https://es.m.wikipedia.org/wiki/Archivo:Claro.svg)">
+<img src ="[(https://es.m.wikipedia.org/wiki/Archivo:Claro.svg)]">
 <p>
   
 Análisis Estratégico Claro
