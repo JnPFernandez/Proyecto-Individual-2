@@ -93,8 +93,6 @@ https://www.redusers.com/noticias/que-operador-de-telefonia-celular-tiene-mejor-
 
 # 📬 Contacto
 
-Nombre: Juan Pablo Fernández
-
 Correo: juanpablofernandez132@gmail.com
 
 LinkedIn: linkedin.com/in/juan-pablo-fernández-608a95217/
