@@ -39,7 +39,7 @@ Proyecto-Individual-2/
   
 - **Python 3.19** (librerías: Pandas, Matplotlib y Seaborn)
 
-# 🔁 Tranformaciones del Excel
+# 🔁 Transformaciones del Excel
 
 - Eliminé los datos duplicados de la hoja Dial-BAf y todas las celdas que estaban vacías, que si fuera de otro modo, complicarían las tareas en Power Bi debido a que pesaba más de lo que podía soportar la aplicación.
 - Eliminé últimas 2 filas de la hoja Accesos por Tecnología ya que eran un mensaje ("Los datos provinciales no coinciden a nivel nacional, ya que se rincorporó información que no contien apertuta a nivel geográfico.") que no tenía valor ni para mi analisis ni para mi Dashboard.
