@@ -96,3 +96,5 @@ https://www.redusers.com/noticias/que-operador-de-telefonia-celular-tiene-mejor-
 Correo: juanpablofernandez132@gmail.com
 
 LinkedIn: linkedin.com/in/juan-pablo-fernández-608a95217/
+
+Youtube:
