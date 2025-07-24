@@ -5,6 +5,8 @@
 # ✏️ Descripción del proyecto
 Este repositorio contiene el Dashboard desarrollado en Power BI Desktop para el análisis estratégico de las telecomunicaciones en Argentina, con foco en los accesos a internet. El informe visualiza tendencias históricas, participación por tecnologías, objetivos de crecimiento y cobertura geográfica, usando los últimos datos abiertos de ENACOM del 2do trimestre de 2024.
 
+Video de demostración: https://www.youtube.com/watch?v=JAiNO_7fRrk
+
 # 🔎 Objetivos principales:
 
 - Analizar la evolución de los accesos por tecnología (ADSL, Cablemodem, Fibra Óptica) a través del tiempo.
