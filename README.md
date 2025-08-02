@@ -97,8 +97,4 @@ https://www.redusers.com/noticias/que-operador-de-telefonia-celular-tiene-mejor-
 
 Correo: juanpablofernandez132@gmail.com
 
-LinkedIn: linkedin.com/in/juan-pablo-fernández-608a95217/
-
-Youtube: https://www.youtube.com/@JuanPabloFern%C3%A1ndez-e6e
-
-Portfolio en Notion: https://second-wave-17e.notion.site/Juan-Pablo-Fern-ndez-Data-Analytics-Portfolio-2294eeb9829e80c39fb7e702609719a7
+![Static Badge](https://img.shields.io/badge/LinkedIn-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjpfv2%2F) ![Static Badge](https://img.shields.io/badge/Youtube-darkred?link=https%3A%2F%2Fwww.youtube.com%2F%40JuanPabloFern%25C3%25A1ndez-e6e) ![Static Badge](https://img.shields.io/badge/Notion-white?link=https%3A%2F%2Fsecond-wave-17e.notion.site%2FJuan-Pablo-Fern-ndez-Data-Analytics-Portfolio-2294eeb9829e80c39fb7e702609719a7)
