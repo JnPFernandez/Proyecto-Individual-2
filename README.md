@@ -52,7 +52,7 @@ Proyecto-Individual-2/
 ```bash
 git clone https://github.com/JnPFernandez/Proyecto-Individual-2.git
 cd Proyecto-Individual-2
-```bash
+````
 
 - Open the project in Power BI Desktop  
 
