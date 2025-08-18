@@ -49,6 +49,7 @@ Proyecto-Individual-2/
 
 # 📥 Installation and Usage
 
+```bash
 git clone https://github.com/JnPFernandez/Proyecto-Individual-2.git
 cd Proyecto-Individual-2
 
