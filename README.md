@@ -1,100 +1,100 @@
-# <h1 align="center">**`Informe sobre el Comportamiento de las Telecomunicaciones a Nivel Nacional`**</h1>
+# <h1 align="center">**`Report on the Behavior of Telecommunications at the National Level`**</h1>
 
-  Análisis Estratégico Claro
+  Strategic Analysis - Claro
 
-# ✏️ Descripción del proyecto
-Este repositorio contiene el Dashboard desarrollado en Power BI Desktop para el análisis estratégico de las telecomunicaciones en Argentina, con foco en los accesos a internet. El informe visualiza tendencias históricas, participación por tecnologías, objetivos de crecimiento y cobertura geográfica, usando los últimos datos abiertos de ENACOM del 2do trimestre de 2024.
+# ✏️ Project Description
+This repository contains the Dashboard developed in Power BI Desktop for the strategic analysis of telecommunications in Argentina, with a focus on internet access.  
+The report visualizes historical trends, technology share, growth objectives, and geographical coverage, using the latest open data from ENACOM for Q2 2024.
 
-Video de demostración: https://www.youtube.com/watch?v=JAiNO_7fRrk
+Demo video: https://www.youtube.com/watch?v=JAiNO_7fRrk
 
-# 🔎 Objetivos principales:
+# 🔎 Main Objectives:
 
-- Analizar la evolución de los accesos por tecnología (ADSL, Cablemodem, Fibra Óptica) a través del tiempo.
+- Analyze the evolution of internet access by technology (ADSL, Cablemodem, Fiber Optic) over time.
 
-- Medir el KPI obligatorio: crecimiento mínimo de 2% de accesos por cada 100 hogares por provincia en el próximo trimestre.
+- Measure the mandatory KPI: minimum growth of 2% in accesses per 100 households per province in the next quarter.
 
-- Proponer y visualizar tres KPIs adicionales: participación de Fibra Óptica en el AMBA, cuota de mercado de Fibra óptica y cuota de mercado de Cablemodem por provincia.
+- Propose and visualize three additional KPIs: Fiber Optic share in AMBA, Fiber Optic market share by province, and Cablemodem market share by province.
 
-- Identificar oportunidades de despliegue y mejora en provincias menos saturadas.
+- Identify deployment and improvement opportunities in less saturated provinces.
 
-# 🗂️ Estructura del repositorio
+# 🗂️ Repository Structure
 
 Proyecto-Individual-2/
 
-├── Internet.xlsx         # Archivo de datos original con varias hojas
+├── Internet.xlsx         # Original dataset with multiple sheets
 
-├── Proyecto Integrador 2.pbix   # Archivo de Power BI (modelo + visualizaciones)
+├── Proyecto Integrador 2.pbix   # Power BI file (model + visualizations)
 
-├── EDA.ipynb                  # Archivo de Jupiter Notebook que contiene el Analisis Exploratorio de los datos
+├── EDA.ipynb             # Jupyter Notebook containing the Exploratory Data Analysis
 
-└── README.md                 # Documentación (este archivo)
+└── README.md             # Documentation (this file)
 
-# ⚙️ Tecnologías y Herramientas
+# ⚙️ Technologies and Tools
 
-- **Power BI Desktop** (versión 2.139.2054.0 o superior)
+- **Power BI Desktop** (version 2.139.2054.0 or higher)
 
-- **Excel** (para preparar y revisar datos)
+- **Excel** (for data preparation and review)
 
-- **DAX** (medidas calculadas para KPIs)
+- **DAX** (calculated measures for KPIs)
 
-- **Jupyter Notebook** (para el análisis exploratorio)
-  
-- **Python 3.19** (librerías: Pandas, Matplotlib y Seaborn)
+- **Jupyter Notebook** (for exploratory analysis)
 
-# 🔁 Transformaciones del Excel
+- **Python 3.19** (libraries: Pandas, Matplotlib, and Seaborn)
 
-- Eliminé los datos duplicados de la hoja Dial-BAf y todas las celdas que estaban vacías, que si fuera de otro modo, complicarían las tareas en Power Bi debido a que pesaba más de lo que podía soportar la aplicación.
-- Eliminé últimas 2 filas de la hoja Accesos por Tecnología ya que eran un mensaje ("Los datos provinciales no coinciden a nivel nacional, ya que se rincorporó información que no contien apertuta a nivel geográfico.") que no tenía valor ni para mi analisis ni para mi Dashboard.
+# 🔁 Excel Transformations
 
-# 📥 Instalación y Uso
-```
+- Removed duplicate data from the Dial-BAf sheet and all empty cells, which otherwise made the Power BI workflow heavier than the application could handle.  
+- Deleted the last two rows from the "Accesos por Tecnología" sheet, since they contained a message ("Provincial data does not match the national level, as additional information without geographic breakdown was incorporated.") that was irrelevant for both the analysis and the dashboard.
+
+# 📥 Installation and Usage
+
 git clone https://github.com/JnPFernandez/Proyecto-Individual-2.git
 cd Proyecto-Individual-2
-```
-- Abrir el proyecto en Power BI Desktop
 
-Abrir pbix/Proyecto Integrador 2.pbix.
 
-- Actualizar orígenes de datos
+- Open the project in Power BI Desktop  
 
-En el panel "Transformar datos", verificar las rutas al archivo data/Internet.xlsx.
+  Open `pbix/Proyecto Integrador 2.pbix`.
 
-Aplicar transformaciones y refrescar el modelo.
+- Update data sources  
 
-- Explorar el informe 
+  In the "Transform Data" panel, check the path to `data/Internet.xlsx`.  
+  Apply transformations and refresh the model.
 
-Navegar entre las cuatro pestañas: Presentación, Accesos por Tecnología, Accesos por cada 100 Hogares y Banda Ancha – Dial Up.
+- Explore the report  
 
-# 📊 Descripción de Páginas
+  Navigate through the four tabs: Presentation, Access by Technology, Access per 100 Households, and Broadband – Dial Up.
 
-- Presentación: Portada con descripción visual del proyecto y botones de navegación.
+# 📊 Pages Description
 
-- Accesos por Tecnología: Línea de tiempo de ADSL, Cablemodem y Fibra Óptica; participation por provincia de Cablemodem y Fibra óptica, y KPI de Porcentaje de Accesos de Fibra óptica que pertenecen al AMBA según los últimos datos.
+- **Presentation**: Cover page with project visual description and navigation buttons.  
 
-- Accesos por cada 100 Hogares: Evolución comparada con el objetivo de 2% de crecimiento.
+- **Access by Technology**: Timeline of ADSL, Cablemodem, and Fiber Optic; provincial share of Cablemodem and Fiber Optic; and KPI showing the percentage of Fiber Optic accesses belonging to AMBA based on the latest data.  
 
-- Banda Ancha – Dial Up: Mapa coroplético sobre el crecimiento en los accesos en cada provincia y diagrama de árbol mostrando distribución total de accesos del último trimestre.
+- **Access per 100 Households**: Evolution compared with the 2% growth target.  
 
-- Conclusión: Una breve conclusión sobre lo visto en la presentación para dejar claro lo encontrado gracias a esta información y dando una perspectiva sobre donde deberían ir dirigidos los actuales y futuros esfuerzos de nuestra compañía.
+- **Broadband – Dial Up**: Choropleth map of access growth in each province and a tree map showing the overall distribution of accesses for the last quarter.  
 
-# 🎯 KPIs Clave
+- **Conclusion**: A brief summary highlighting the main findings, providing insights on where current and future company efforts should be directed.  
 
-- Crecimiento de accesos por 100 hogares del %2 para el próximo trimestre
+# 🎯 Key KPIs
 
-- Porcentaje de Accesos de Fibra óptica que pertenecen al AMBA según los últimos datos 
+- Growth of 2% in accesses per 100 households for the next quarter  
 
-- Cuota de mercado de Cablemodem por provincia
+- Percentage of Fiber Optic accesses belonging to AMBA based on the latest data  
 
-- Cuota de mercado de Fibra óptica por provincia
+- Cablemodem market share by province  
 
-# ℹ️ Fuentes:
+- Fiber Optic market share by province  
 
-https://www.enacom.gob.ar
+# ℹ️ Sources:
 
-https://www.redusers.com/noticias/que-operador-de-telefonia-celular-tiene-mejor-cobertura-en-cada-provincia/#:~:text=Utilizando%20estos%20datos%2C%20fuimos%20a,75%20por%20ciento%20en%20promedio
+- https://www.enacom.gob.ar  
+- https://www.redusers.com/noticias/que-operador-de-telefonia-celular-tiene-mejor-cobertura-en-cada-provincia/#:~:text=Utilizando%20estos%20datos%2C%20fuimos%20a,75%20por%20ciento%20en%20promedio
 
-# 📬 Contacto
+# 📬 Contact
 
-Correo: juanpablofernandez132@gmail.com
+Email: juanpablofernandez132@gmail.com
 
 ![Static Badge](https://img.shields.io/badge/LinkedIn-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjpfv2%2F) ![Static Badge](https://img.shields.io/badge/Youtube-darkred?link=https%3A%2F%2Fwww.youtube.com%2F%40JuanPabloFern%25C3%25A1ndez-e6e) ![Static Badge](https://img.shields.io/badge/Notion-black?link=https%3A%2F%2Fsecond-wave-17e.notion.site%2FJuan-Pablo-Fern-ndez-Data-Analytics-Portfolio-2294eeb9829e80c39fb7e702609719a7)
