@@ -1,6 +1,6 @@
 # <h1 align="center">**`Report on the Behavior of Telecommunications at the National Level`**</h1>
 
-  Strategic Analysis - Claro
+ <h1 Strategic Analysis - Claro  /h1>
 
 # ✏️ Project Description
 This repository contains the Dashboard developed in Power BI Desktop for the strategic analysis of telecommunications in Argentina, with a focus on internet access.  
