@@ -6,7 +6,7 @@
 This repository contains the Dashboard developed in Power BI Desktop for the strategic analysis of telecommunications in Argentina, with a focus on internet access.  
 The report visualizes historical trends, technology share, growth objectives, and geographical coverage, using the latest open data from ENACOM for Q2 2024.
 
-Demo video: https://www.youtube.com/watch?v=JAiNO_7fRrk
+Demo video: ![Static Badge](https://img.shields.io/badge/Youtube-darkred?link=https%3A%2F%2Fwww.youtube.com%2F%40JuanPabloFern%25C3%25A1ndez-e6e) ![Static Badge](https://img.shields.io/badge/LinkedIn-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjpfv2%2F)
 
 # 🔎 Main Objectives:
 
